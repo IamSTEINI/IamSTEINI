@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/IamSTEINI)
+[![MasterHead](https://giphy.com/gifs/blue-screen-gU25raLP4pUu4)](https://github.com/IamSTEINI)
 <h1 align="center">Hi 👋, I'm STEIN</h1>
 <h3 align="center">I love writing code! I am from Germany!</h3>
 
