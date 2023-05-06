@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight:bold">STEIN's WELCOME PAGE</h1>
 <h3 align="center">🍪I love the internet and browser cookies🍪</h3><br>
 
-<img src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
+<img align="center" style="border-radius:12px" src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
 <h3 align="center" style="font-weight:bold;color:white;">
     <img align="center" src="https://komarev.com/ghpvc/?username=iamsteini&label=Profile%20views&color=0e75b6&style=flat" alt="iamsteini" />
 </h3>
