@@ -23,7 +23,7 @@ STEIN()
     Bad account commits:
 </h3>
 <h3 align="center" style="font-weight:bold;color:white;">
-    <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/10db4cc48623ac4c17f813d210c571aab1a2f3cc/github-user-contribution.svg">
+    <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg">
 
 </h3>
 
