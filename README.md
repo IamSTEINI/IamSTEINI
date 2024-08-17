@@ -1,16 +1,21 @@
-<h1 align="center" style="font-weight:bold">STEIN's WELCOME PAGE</h1>
-<h3 align="center">🍪I love the internet and browser cookies🍪</h3><br>
-
-<img align="center" style="border-radius:12px" src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
+<h1 align="center" style="font-weight:bold;font-size:50px;">STEIN</h1>
 <h3 align="center" style="font-weight:bold;color:white;">
     <img align="center" src="https://komarev.com/ghpvc/?username=iamsteini&label=Profile%20views&color=0e75b6&style=flat" alt="iamsteini" />
 </h3>
-
-<br>
-<h3 align="center" style="font-weight:bold;color:white;">
-    Using and knowledge
-</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center" style="margin:5px;user-select:none;">
+    <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244252/nextjs-icon-md.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0-1536x1536.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/aws-logo-logo-png-transparent.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://clipground.com/images/html5-png-image-10.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://www.shareicon.net/data/2016/06/20/606964_github_4096x4096.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/node_js_logo-1024.png" style="width:25px;height:25px;object-fit:contain;">
+    <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" style="width:25px;height:25px;object-fit:contain;">
+    </p>
 
 ```python
 def STEIN():
@@ -20,17 +25,9 @@ def STEIN():
 STEIN()
 ```
 <h3 align="center" style="font-weight:bold;color:white;">
-    Bad account commits:
-</h3>
-<h3 align="center" style="font-weight:bold;color:white;">
     <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg">
 
 </h3>
-
-<h3 align="center" style="font-weight:bold;color:white;">
-    STATS
-</h3>
-
-<p align="center">
+<p align="start">
 <img src="https://github-readme-stats.vercel.app/api?username=iamsteini&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="STEINS' GitHub Stats" />
 </p>
