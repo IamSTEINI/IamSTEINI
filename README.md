@@ -17,13 +17,11 @@
     <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" style="width:25px;height:25px;object-fit:contain;">
     </p>
 
-```python
-def STEIN():
-    print("IamSteinI")
-    print("📍 Working at ███████████") #CENSORED
-    
-STEIN()
-```
+```bash
+git push origin --delete $(git rev-parse --abbrev-ref HEAD)```
+-
+"Sometimes, the best way to fix a bug is to nuke the entire branch."
+<br>
 <h3 align="center" style="font-weight:bold;color:white;">
     <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg">
 
