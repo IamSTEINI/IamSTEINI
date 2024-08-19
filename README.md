@@ -23,7 +23,7 @@ git push origin --delete $(git rev-parse --abbrev-ref HEAD)```
 <p>"Sometimes, the best way to fix a bug is to nuke the entire branch."</p>
 
 <h3 align="center" style="font-weight:bold;color:white;">
-    <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg">
+    <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg"/>
 
 </h3>
 <p align="start">
