@@ -18,7 +18,7 @@
     </p>
 
 ```bash
-git push origin --delete $(git rev-parse --abbrev-ref HEAD)```
+git push origin --delete (git rev-parse --abbrev-ref HEAD)```
 -
 <p>"Sometimes, the best way to fix a bug is to nuke the entire branch."</p>
 
