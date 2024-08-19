@@ -20,8 +20,8 @@
 ```bash
 git push origin --delete $(git rev-parse --abbrev-ref HEAD)```
 -
-"Sometimes, the best way to fix a bug is to nuke the entire branch."
-<br>
+<p>"Sometimes, the best way to fix a bug is to nuke the entire branch."</p>
+
 <h3 align="center" style="font-weight:bold;color:white;">
     <img src="https://raw.githubusercontent.com/IamSTEINI/IamSTEINI/main/github-user-contribution.svg">
 
